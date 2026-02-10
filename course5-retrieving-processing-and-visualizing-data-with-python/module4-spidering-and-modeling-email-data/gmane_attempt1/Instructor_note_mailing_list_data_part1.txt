@@ -1,1 +1,0 @@
-Screenshot 1 should not cut off the data fields. Screenshot 2 is missing the output for Gmodel. Screenshot 3 is not showing the correct output for index.sqlite. Gbasic should not be edited. When requesting a reset, please indicate that you have read and understood the instructor note.

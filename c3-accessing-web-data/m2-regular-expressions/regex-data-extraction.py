@@ -1,0 +1,16 @@
+import re
+
+# Read the file
+with open("regex_sum_2237803.txt") as f:
+    text = f.read()
+
+# Find all numbers
+numbers = re.findall(r'[0-9]+', text)
+
+# Convert to integers and sum
+total = sum(map(int, numbers))
+
+print(total)
+
+
+
